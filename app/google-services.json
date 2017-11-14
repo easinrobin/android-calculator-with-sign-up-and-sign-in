@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "272090853493",
+    "firebase_url": "https://calculator-rob.firebaseio.com",
+    "project_id": "calculator-rob",
+    "storage_bucket": "calculator-rob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272090853493:android:7a524a9fae64ef9d",
+        "android_client_info": {
+          "package_name": "com.robin.asus.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272090853493-u0ri18nf5the676n41bd6c4f3liluoaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFczAWxBIYwrdpQxQzq_MOMS9PM_PnL3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
